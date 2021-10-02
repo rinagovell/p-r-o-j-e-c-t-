@@ -1,0 +1,11 @@
+[2021-09-27T19:13:52.116Z] Push master: started.
+[2021-09-27T19:14:04.254Z] Set upstream for refs/heads/master: started.
+[2021-09-27T19:14:09.661Z] Set upstream for refs/heads/master: finished. gk-log://duration?t=5407
+[2021-09-27T19:14:10.896Z] Push master: finished. gk-log://duration?t=18780
+[2021-10-02T10:03:48.697Z] Stage 28614 files for commit: started.
+[2021-10-02T10:04:43.429Z] Stage 28614 files for commit: could not open '/Users/rinagovell/Library/Preferences/com.apple.AddressBook.plist': Operation not permitted
+[2021-10-02T10:04:43.433Z] Stage 28614 files for commit: finished with errors. gk-log://duration?t=54736
+[2021-10-02T10:08:18.441Z] Stage 28395 files for commit: started.
+[2021-10-02T10:09:08.312Z] Stage 28395 files for commit: could not open '/Users/rinagovell/Library/Preferences/com.apple.AddressBook.plist': Operation not permitted
+[2021-10-02T10:09:08.314Z] Stage 28395 files for commit: finished with errors. gk-log://duration?t=49872
+[2021-10-02T10:09:24.432Z] Stage 28395 files for commit: started.
