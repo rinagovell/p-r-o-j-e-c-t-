@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-    int x, y, a;
+    double x, y, a;
     cout << "Введите вес конфет в кг: ";
     cin >> x;
     cout << "Введите стоимость этого веса конфет в рублях: ";
