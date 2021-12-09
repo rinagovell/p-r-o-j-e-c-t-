@@ -20,7 +20,7 @@ int main(){
     else if ((x < 0) and (y < 0)){
         cout << "Точка лежит в 3-ой четверти.\n";
     }
-    else if ((x > 0) and (y > 0)){
+    else if ((x > 0) and (y < 0)){
         cout << "Точка лежит в 4-ой четверти.\n";
     }
     else{
