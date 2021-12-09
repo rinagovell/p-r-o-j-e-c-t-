@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+    cout << "\n Задание 5. \n";
     int n;
     cout << "\nВведите год: ";
     cin>>n;
